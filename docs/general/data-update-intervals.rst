@@ -79,7 +79,7 @@ If a listen cannot be mapped, the user can optionally tell us how to map the lis
 MusicBrainz" feature from the listen card. A few notes about this:
 
 #. If you have an unmatched listen in your stats and then you manually link the listen, the stats will not update until the next time listens are loaded again (2nd and 16th of the month, see above)
-#. If you would like to manually map a listen, but the recording does not exist in MusicBrainz, you'll need to add it there (or wait for someone else to add it). Once it has been added to MusicBrainz, it will be available for manual mappping in about 4 hours.
+#. If you would like to manually map a listen, but the recording does not exist in MusicBrainz, you'll need to add it there (or wait for someone else to add it). Once it has been added to MusicBrainz, it will be available for manual mapping in about 4 hours.
 
 
 ListenBrainz data infrastructure
